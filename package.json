@@ -1,0 +1,24 @@
+{
+  "name": "k6-cloudevent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shandj-mtl/k6-cloudevent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shandj-mtl/k6-cloudevent/issues"
+  },
+  "homepage": "https://github.com/shandj-mtl/k6-cloudevent#readme",
+  "dependencies": {
+    "cloudevents": "^6.0.4",
+    "install": "^0.13.0",
+    "npm": "^9.6.2"
+  }
+}
